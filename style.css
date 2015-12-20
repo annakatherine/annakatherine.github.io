@@ -1,8 +1,22 @@
 H1{
-COLOR: BLACK; TEXT-ALIGN: CENTER; font-family: GEORGIA; font-variant: SMALL-CAPS; line-height: 10%;}
+COLOR: BLACK; 
+TEXT-ALIGN: CENTER; 
+font-family: GEORGIA; 
+font-variant: SMALL-CAPS; 
+line-height: 10%;
+}
 img{
   border: 1px solid black;
-  padding: 5px;
+}
+.header-container {
+    background: url('/path/to/banner.jpg') no-repeat center center;
+    background-size: 100%;
+    max-width: 100%;
+    height: auto;
+}
+.header-container .txt-container {
+    text-align: center;
+    vertical-align: middle;
 }
 P{
   COLOR: BLACK; 
@@ -48,4 +62,4 @@ P4{
   line-height: 10%;
   
 } 
-DIV{ }
+
