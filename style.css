@@ -14,6 +14,7 @@ P{
   font-size: 30PX; 
   font-variant: small-caps; 
   line-height:20%;
+  border-bottom: 1px solid #999;
 }
 
 H4{
