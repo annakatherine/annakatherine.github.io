@@ -18,7 +18,7 @@ P{
 H5{
   COLOR: BLACK;
   font-family: GEORGIA;
-  font-size: 20PX;
+  font-size: 15PX;
   line-height: 5%;
 }
 H4{
@@ -27,6 +27,7 @@ H4{
   FONT-FAMILY: GEORGIA; 
   line-height: 10%; 
   font-size: 20PX;
+  font-variant: small-caps;
   }
 BODY{
   background-color: #1a8bff; 
