@@ -4,7 +4,8 @@ TEXT-ALIGN: CENTER;
 font-family: GEORGIA; 
 font-variant: SMALL-CAPS; 
 line-height: 10%;
-background-color: red;
+background-color: gray;
+padding-bottom: 50px;
 }
 
 P{
