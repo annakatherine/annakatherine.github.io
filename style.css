@@ -14,7 +14,6 @@ P{
   font-size: 30PX; 
   font-variant: small-caps; 
   line-height:20%;
-  
 }
 H4{
   Color:BLACK; 
@@ -24,7 +23,7 @@ H4{
   font-size: 20PX;
   }
 BODY{
-  background-color: #000066; 
+  background-color: #80bfff; 
   border: 5px solid grey; 
   padding-bottom: 50px; 
   padding-left: 150px; 
@@ -36,19 +35,13 @@ H6{
   line-height: 10%; 
   font-family:GEORGIA; 
   TEXT-ALIGN: center;
-  
 }
-div{
-  float: center;
-  
-}
+
 P3{
   FONT-VARIENT: SRONG;
-  
 }
 P4{
   COLOR: BLACK; 
   line-height: 10%;
-  
 } 
 
