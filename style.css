@@ -4,7 +4,6 @@ TEXT-ALIGN: CENTER;
 font-family: GEORGIA; 
 font-variant: SMALL-CAPS; 
 line-height: 10%;
-background-color: #e6e6e6;
 padding-bottom: 10px;
 }
 
@@ -36,7 +35,7 @@ H6{
   COLOR: BLACK; 
   line-height: 10%; 
   font-family:GEORGIA; 
-  TEXT-ALIGN: RIGHT;
+  TEXT-ALIGN: center;
   
 }
 div{
