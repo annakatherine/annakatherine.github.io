@@ -15,6 +15,12 @@ P{
   font-variant: small-caps; 
   line-height:20%;
 }
+H5{
+  COLOR: BLACK;
+  font-family: GEORGIA;
+  font-size: 20PX;
+  line-height: 10%;
+}
 H4{
   Color:BLACK; 
   text-align:LEFT; 
