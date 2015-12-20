@@ -4,10 +4,9 @@ TEXT-ALIGN: CENTER;
 font-family: GEORGIA; 
 font-variant: SMALL-CAPS; 
 line-height: 10%;
+background-color: red;
 }
-img{
-  img-align: right;
-}
+
 P{
   COLOR: BLACK; 
   TEXT-ALIGN: LEFT; 
