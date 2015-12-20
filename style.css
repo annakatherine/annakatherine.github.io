@@ -6,17 +6,7 @@ font-variant: SMALL-CAPS;
 line-height: 10%;
 }
 img{
-  border: 1px solid black;
-}
-.header-container {
-    background: url('/path/to/banner.jpg') no-repeat center center;
-    background-size: 100%;
-    max-width: 100%;
-    height: auto;
-}
-.header-container .txt-container {
-    text-align: center;
-    vertical-align: middle;
+  img-align: right;
 }
 P{
   COLOR: BLACK; 
