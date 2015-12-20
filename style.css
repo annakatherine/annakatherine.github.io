@@ -29,7 +29,7 @@ H4{
   font-size: 20PX;
   }
 BODY{
-  background-color: #80bfff; 
+  background-color: #1a8bff; 
   border: 5px solid grey; 
   padding-bottom: 50px; 
   padding-left: 150px; 
@@ -44,9 +44,6 @@ H6{
   TEXT-ALIGN: center;
 }
 
-P3{
-  FONT-VARIENT: SRONG;
-}
 P4{
   COLOR: BLACK; 
   line-height: 10%;
