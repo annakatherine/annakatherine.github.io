@@ -32,8 +32,9 @@ BODY{
   }
 H6{
   COLOR: BLACK; 
-  line-height: 10%; 
-  font-family:GEORGIA; 
+  line-height: 5%;
+  font-size: 20px;
+  font-family: GEORGIA; 
   TEXT-ALIGN: center;
 }
 
