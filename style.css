@@ -19,7 +19,7 @@ H5{
   COLOR: BLACK;
   font-family: GEORGIA;
   font-size: 20PX;
-  line-height: 10%;
+  line-height: 5%;
 }
 H4{
   Color:BLACK; 
@@ -38,8 +38,8 @@ BODY{
   }
 H6{
   COLOR: BLACK; 
-  line-height: 5%;
-  font-size: 20px;
+  line-height: 1%;
+  font-size: 10px;
   font-family: GEORGIA; 
   TEXT-ALIGN: center;
 }
