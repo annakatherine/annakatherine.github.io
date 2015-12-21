@@ -6,15 +6,8 @@ font-variant: SMALL-CAPS;
 line-height: 10%;
 padding-bottom: 10px;
 }
-  /* Title strip color */
-#banner-inner {
-border: 0;
-top: 0;
-height: 180px;
-background: rgba(12, 140, 89, 0.6); 
-}
-#banner-header {
-margin-top: 110px;
+header{
+  background-color: green;
 }
 
 P{
