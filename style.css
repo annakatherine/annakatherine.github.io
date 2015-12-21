@@ -36,6 +36,7 @@ H4{
   }
 body{
   background-color: #51B8F0;
+  background-image: url("paper.gif");
 }
 #Content{
   padding-bottom: 50px; 
