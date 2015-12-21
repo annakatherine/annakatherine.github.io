@@ -34,9 +34,10 @@ H4{
   font-variant: small-caps;
   }
 body{
-  background-color: #FFFFF;
   background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/858/thumbs/reflective-abstract-malleable-metal-4.jpg");
 }
+  background-color: #FFFFF;
+  
 #Content{
   padding-bottom: 50px; 
   padding-top: 50px;
