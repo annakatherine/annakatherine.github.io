@@ -13,6 +13,20 @@ H2{
   font-variant:SMALL-CAPS;
   line-height: .1;
 }
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); 
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
 #header{
   padding: 30px;
   background-color: #70BFE0;
@@ -54,7 +68,7 @@ H4{
   padding-left: 150px;
 }
 body{
-  background-image: url("http://i2.wp.com/inspirationhut.net/wp-content/uploads/2013/05/61.png?resize=698%2C278");
+  background-image: url("background-image: url("path-to-stripe.png");
   background-color: #FFFFF;
 }
  
