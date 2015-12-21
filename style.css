@@ -14,7 +14,7 @@ P{
   font-size: 30PX; 
   font-variant: small-caps; 
   line-height:20%;
-  font-variant: underline;
+  text-decoration: underline;
 }
 
 H4{
@@ -23,7 +23,7 @@ H4{
   FONT-FAMILY: GEORGIA; 
   line-height: 10%; 
   font-size: 20PX;
-  text-decoration: small-caps;
+  font-variant: small-caps;
   }
 BODY{
   background-color: #1a8bff; 
