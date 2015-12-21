@@ -33,6 +33,10 @@ H4{
   font-size: 20PX;
   font-variant: small-caps;
   }
+#body{ 
+  padding-right: 150px;
+  padding-left: 150px;
+}
 body{
   background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/706/full/blue-stripes-patterns-8.jpg");
 }
