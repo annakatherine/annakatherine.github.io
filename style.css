@@ -39,8 +39,11 @@ H4{
 }
 body{
   background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/706/full/blue-stripes-patterns-8.jpg");
-}
+  opacity: 0.4;
+  filter: alpha(opacity=40);
   background-color: #FFFFF;
+}
+  
   
 #Content{
   padding-bottom: 50px; 
