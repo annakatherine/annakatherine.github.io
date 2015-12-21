@@ -6,6 +6,13 @@ font-variant: SMALL-CAPS;
 line-height: 10%;
 padding-bottom: 10px;
 }
+H2{ 
+  COLOR: BLACK;
+  TEXT-ALIGN: CENTER;
+  font-family: GEORGIA;
+  font-variant:SMALL-CAPS;
+  line-height: .1;
+}
 #header{
   padding: 30px;
   background-color: #70BFE0;
