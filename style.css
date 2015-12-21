@@ -24,6 +24,13 @@ P{
   font-variant: small-caps; 
   line-height:20%;
 }
+P1{
+  COLOR: BLACK;
+  TEXT-ALIGN: LEFT;
+  font-family: GEORGIA;
+  font-size: 20PX;
+  line-height: .8;
+}
 
 H4{
   Color:BLACK; 
