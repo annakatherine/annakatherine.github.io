@@ -11,7 +11,9 @@ padding-bottom: 10px;
   background-color: #70BFE0;
   border: 1px #293F4A solid;
 }
-
+img{
+  float: left;
+}
 #CareerProfile{
 
 }
