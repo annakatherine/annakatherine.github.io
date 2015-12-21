@@ -31,12 +31,13 @@ H4{
   font-size: 20PX;
   font-variant: small-caps;
   }
+
 #Content{
   background-color: #1a8bff; 
-  border: 5px solid black; 
   padding-bottom: 50px; 
   padding-top: 50px;
   }
+
 H6{
   COLOR: BLACK; 
   font-size: 20px;
