@@ -8,7 +8,7 @@ padding-bottom: 10px;
 }
 #header{
   padding: 30px;
-  background-color: red;
+  background-color: #70BFE0;
   border: 1px #293F4A solid;
 }
 
@@ -34,8 +34,8 @@ H4{
   font-variant: small-caps;
   }
 body{
-  background-color: #51B8F0;
-  background-image: paper.gif;
+  background-color: #FFFFF;
+  background-image: url("lined_paper.png");
 }
 #Content{
   padding-bottom: 50px; 
