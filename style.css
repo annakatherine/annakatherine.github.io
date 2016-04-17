@@ -11,6 +11,9 @@ padding-bottom: 10px;
 img { 
   float: right;
   padding-bottom: 100px;
+  .clearfix {
+    overflow: auto;
+}
 }
 H2{ 
   COLOR: BLACK;
