@@ -33,6 +33,9 @@ H2{
 section{
 
 }
+.color: hover {
+  COLOR: BLUE;
+}
 P{
   COLOR: BLACK; 
   TEXT-ALIGN: LEFT; 
