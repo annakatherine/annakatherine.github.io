@@ -30,12 +30,11 @@ H2{
   font-family: GEORGIA; Times; serif
   line-height: .6;
 }
+
 section{
 
 }
-.color: hover {
-  COLOR: BLUE;
-}
+
 P{
   COLOR: BLACK; 
   TEXT-ALIGN: LEFT; 
@@ -59,12 +58,8 @@ H4 {
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
-  transition: font-size; 2s;  
   }
   
-H4: hover {
-  font-size: 30px;
-} 
 
 body {
   background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/1194/full/seamless-baby-blue-patterns-1.jpg");
@@ -80,16 +75,9 @@ main {
   }
 
 nav {
-  margins: 20px 0px 0px 0px;
+  margins: 40px 0px 0px 0px;
   COLOR: BLACK; 
   line-height: 60%;
-  
-}
-  
-}
-
-  
-
 
 P4{
   COLOR: BLACK; 
