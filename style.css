@@ -56,41 +56,32 @@ H4 {
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
-  transition: font-size; .2s; ease; 0.2s; 
+  transition: font-size; 2s;  
   }
   
 H4: hover {
   font-size: 30px;
 } 
-main{ 
-  padding-right: 150px;
-  padding-left: 150px;
-}
-body{
+
+body {
   background-image: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/1194/full/seamless-baby-blue-patterns-1.jpg");
   background-color: #FFFFF;
 }
  
   
-main{
+main {
   padding-bottom: 50px; 
   padding-top: 50px;
   padding-right: 50px;
   padding-left: 50px;
   }
-nav{
+
+nav {
   margins: 20px 0px 0px 0px;
   COLOR: BLACK; 
   line-height: 60%;
   
 }
-H6: hover {
-  COLOR: BLACK;
-  font-size: 20px;
-  font-family: GEORGIA; Times; serif
-  TEXT-ALIGN: center;
-  padding-bottom: 20PX;
-  transition: font-size: 30px; .2; ease; 0.2; 
   
 }
 
