@@ -80,17 +80,17 @@ nav{
   line-height: 60%;
   
 }
-H6{
+H6: hover {
   COLOR: gray; 
   font-size: 20px;
   font-family: GEORGIA; Times; serif
   TEXT-ALIGN: center;
   padding-bottom: 20PX;
+  
 }
 H6: hover { 
-  COLOR: BLACK;
-  font-size: 25px;
-  font-family: GEORGIA; Times; serif;
+  transition: COLOR: BLACK; ease; 0.2; 
+}
 
 P4{
   COLOR: BLACK; 
