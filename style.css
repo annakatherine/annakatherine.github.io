@@ -8,11 +8,11 @@ line-height: 10%;
 padding-bottom: 10px;
 }
 
-img { 
-  float: right;
-  padding-bottom: 100px;
-  .clearfix {
-    overflow: auto;
+
+  img {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
 }
 }
 H2{ 
