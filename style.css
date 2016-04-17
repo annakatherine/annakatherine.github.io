@@ -23,20 +23,14 @@ img {
     float: right;
 }
 
-H2{ 
+H2 { 
   COLOR: BLACK;
   FONT-SIZE: 20px;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
   line-height: .6;
 }
-transition {
-  transition: font-size; 2s; ease; 2s;
-}
 
-transition: hover {
-  font-size: 1.2%;
-}
 section{
 
 }
