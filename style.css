@@ -38,12 +38,13 @@ section{
 P{
   COLOR: BLACK; 
   TEXT-ALIGN: LEFT; 
-  font-family: GEORGIA; Times; serif
+  font-family: GEORGIA;
   font-size: 65PX; 
   font-variant: small-caps; 
   line-height: 20%;
   font-weight: bold;
 }
+
 P1{
   COLOR: BLACK;
   TEXT-ALIGN: LEFT;
