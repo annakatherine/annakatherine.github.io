@@ -41,7 +41,8 @@ P{
   font-family: GEORGIA; Times; serif
   font-size: 50PX; 
   font-variant: small-caps; 
-  line-height: 25%;
+  line-height: 20%;
+  font-weight: bold;
 }
 P1{
   COLOR: BLACK;
