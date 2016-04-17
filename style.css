@@ -7,6 +7,10 @@ font-variant: SMALL-CAPS;
 line-height: 10%;
 padding-bottom: 10px;
 }
+
+img { 
+  float: right;
+}
 H2{ 
   COLOR: BLACK;
   TEXT-ALIGN: CENTER;
@@ -20,9 +24,7 @@ H2{
   background-color: #7DA5D4;
   border: 1px #293F4A solid;
 }
-img{
-  float: left;
-}
+
 #CareerProfile{
 
 }
