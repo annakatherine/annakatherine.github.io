@@ -3,13 +3,14 @@ header{
   padding: 30px;
   background-color: #7DA5D4;
   border: 1px #293F4A solid;
+  border-radius: 20%;
 }
 
 H1{
-COLOR: BLACK; 
+COLOR: black; 
 FONT-SIZE: 40PX;
 TEXT-ALIGN: LEFT; 
-font-family: GEORGIA; TimesNewRoman;
+font-family: GEORGIA; Times; serif
 font-variant: SMALL-CAPS; 
 line-height: 10%;
 padding-bottom: 10px;
@@ -27,32 +28,32 @@ H2{
   COLOR: BLACK;
   FONT-SIZE: 20px;
   TEXT-ALIGN: LEFT;
-  font-family: GEORGIA;
+  font-family: GEORGIA; Times; serif
   line-height: .6;
 }
 section{
 
 }
 P{
-  COLOR: BLACK; 
+  COLOR: gray; 
   TEXT-ALIGN: LEFT; 
-  font-family: GEORGIA; 
+  font-family: GEORGIA; Times; serif
   font-size: 30PX; 
   font-variant: small-caps; 
   line-height:25%;
 }
 P1{
-  COLOR: BLACK;
+  COLOR: gray;
   TEXT-ALIGN: LEFT;
-  font-family: GEORGIA;
+  font-family: GEORGIA; Times; serif
   font-size: 20PX;
   line-height: 20px;
 }
 
 H4{
-  Color:BLACK; 
+  Color: gray; 
   text-align:LEFT; 
-  FONT-FAMILY: GEORGIA; 
+  FONT-FAMILY: GEORGIA; Times; serif
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
@@ -80,12 +81,16 @@ nav{
   
 }
 H6{
-  COLOR: BLACK; 
+  COLOR: gray; 
   font-size: 20px;
-  font-family: GEORGIA; 
+  font-family: GEORGIA; Times; serif
   TEXT-ALIGN: center;
   padding-bottom: 20PX;
 }
+H6: hover { 
+  COLOR: BLACK;
+  font-size: 25px;
+  font-family: GEORGIA; Times; serif;
 
 P4{
   COLOR: BLACK; 
