@@ -29,13 +29,8 @@ H2{
   font-family: GEORGIA;
   line-height: .6;
 }
-
-
-
-
 section{
 
-}
 
 P{
   COLOR: BLACK; 
@@ -78,7 +73,7 @@ main{
   padding-left: 50px;
   }
 nav{
-  margins: 10px;
+  margins: 20px 0px 0px 0px;
   COLOR: BLACK; 
   line-height: 60%;
   
@@ -95,5 +90,4 @@ P4{
   COLOR: BLACK; 
   line-height: 36%;
 } 
-
-
+}
