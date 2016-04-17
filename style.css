@@ -30,7 +30,13 @@ H2{
   font-family: GEORGIA; Times; serif
   line-height: .6;
 }
+div transition {
+  transition: font-size; 2s; ease; 2s;
+}
 
+transition: hover {
+  font-size: 1.2%;
+}
 section{
 
 }
