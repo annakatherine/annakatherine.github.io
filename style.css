@@ -31,14 +31,6 @@ H2{
   line-height: .6;
 }
 section{
-.fade
-{
-opacity:0.5;
-}
-.fade:hover
-{
-opacity:1;
-}
 
 }
 P{
