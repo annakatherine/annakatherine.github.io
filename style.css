@@ -23,7 +23,7 @@ img {
 
 H2{ 
   COLOR: BLACK;
-  FONT-SIZE: 20px;
+  FONT-SIZE: 0px;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA;
   line-height: .6;
@@ -42,7 +42,7 @@ P{
   font-family: GEORGIA; 
   font-size: 30PX; 
   font-variant: small-caps; 
-  line-height:20%;
+  line-height:25%;
 }
 P1{
   COLOR: BLACK;
