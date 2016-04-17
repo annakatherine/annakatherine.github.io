@@ -5,6 +5,6 @@ $formcontent="From: $name \n Message: $message";
 $recipient = "annakatherinebaker@gmail.com";
 $subject = "Contact Form";
 $mailheader = "From: $email \r\n";
-mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
+mail(annakatherinebaker@gmail.com, $subject, $formcontent, $mailheader) or die("Error!");
 echo "Thank You!";
 ?>
