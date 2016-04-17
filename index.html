@@ -102,10 +102,16 @@ Anna Katherine Rodenborg Baker, MA
   <LI>Vice President (2014-present)</LI>
   <LI>Editor of quarterly newsletter, <a href = "http://www.mnrpcv.org/newsletters/newsletters/"> MNRPCV News</a></LI>
 </UL>
-<form> 
-  <label for = "Feedback"> Contact Anna </label>
-  <textarea id = "Feedback"> </textarea>
-  <input type = "submit" value = "Click to submit"
+
+<form action="contact.php" method="post">
+    Your name<br>
+    <input type="text" name="cf_name"><br>
+    Your email <br>
+    <input type="text" name="cf_email"><br>
+    Message<br>
+    <textarea name="cf_message"><br>
+    <input type="submit" value="Send">
+    <input type="reset" value="Clear">
 </form>
 </main>
 </section>
