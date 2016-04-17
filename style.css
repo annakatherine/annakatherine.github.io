@@ -50,13 +50,14 @@ P1{
   line-height: 20px;
 }
 
-H4{
+H4: hover {
   Color: BLACK; 
   text-align:LEFT; 
   FONT-FAMILY: GEORGIA; Times; serif
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
+  transition: font-size: 30px; .2; ease; 0.2; 
   }
 main{ 
   padding-right: 150px;
