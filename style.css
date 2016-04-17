@@ -60,7 +60,9 @@ H4 {
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
-  }
+  transition: font-size; 2s; ease; 2s;
+  
+}
 H4: hover {
   font-size: 30px;
 }
