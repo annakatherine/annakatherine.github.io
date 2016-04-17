@@ -31,7 +31,7 @@ H2{
 
 
 
-#CareerProfile{
+section{
 
 }
 
@@ -59,7 +59,7 @@ H4{
   font-size: 20PX;
   font-variant: small-caps;
   }
-#body{ 
+main{ 
   padding-right: 150px;
   padding-left: 150px;
 }
