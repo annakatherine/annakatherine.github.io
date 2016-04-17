@@ -33,13 +33,13 @@ H2{
 section{
 .fade
 {
-        opacity:0.5;
+opacity:0.5;
 }
 .fade:hover
 {
-        opacity:1;
+opacity:1;
 }
-(Make sure you s
+
 }
 P{
   COLOR: BLACK; 
