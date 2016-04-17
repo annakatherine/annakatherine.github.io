@@ -3,11 +3,12 @@ header{
   background-color: #7DA5D4;
   border: 1px #293F4A solid;
 }
+
 H1{
 COLOR: BLACK; 
 FONT-SIZE: 40PX;
-TEXT-ALIGN: CENTER; 
-font-family: GEORGIA; 
+TEXT-ALIGN: LEFT; 
+font-family: GEORGIA; TimesNewRoman;
 font-variant: SMALL-CAPS; 
 line-height: 10%;
 padding-bottom: 10px;
