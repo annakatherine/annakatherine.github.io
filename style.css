@@ -11,10 +11,9 @@ padding-bottom: 10px;
 
   img {
     float: right;
-    border: 1px dotted black;
-    margin: 0px 0px 15px 20px;
+    border: 1px solid black;
 }
-}
+
 H2{ 
   COLOR: BLACK;
   TEXT-ALIGN: CENTER;
