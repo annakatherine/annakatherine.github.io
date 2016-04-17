@@ -43,7 +43,7 @@ P{
   line-height:25%;
 }
 P1{
-  COLOR: gray;
+  COLOR: BLACK;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
   font-size: 20PX;
@@ -51,7 +51,7 @@ P1{
 }
 
 H4{
-  Color: gray; 
+  Color: BLACK; 
   text-align:LEFT; 
   FONT-FAMILY: GEORGIA; Times; serif
   line-height: 10%; 
@@ -81,16 +81,17 @@ nav{
   
 }
 H6: hover {
-  COLOR: gray; 
+  COLOR: BLACK;
   font-size: 20px;
   font-family: GEORGIA; Times; serif
   TEXT-ALIGN: center;
   padding-bottom: 20PX;
+  transition: font-size: 30px; .2; ease; 0.2; 
   
 }
-H6: hover { 
-  transition: COLOR: BLACK; ease; 0.2; 
-}
+
+  
+
 
 P4{
   COLOR: BLACK; 
