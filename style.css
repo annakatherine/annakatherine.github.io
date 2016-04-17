@@ -21,7 +21,6 @@ img {
     margin-bottom: 100px;
     border: 1px solid black;
     float: right;
-    
 }
 
 H2{ 
@@ -50,15 +49,19 @@ P1{
   line-height: 20px;
 }
 
-H4: hover {
+H4: {
   Color: BLACK; 
   text-align:LEFT; 
   FONT-FAMILY: GEORGIA; Times; serif
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
-  transition: font-size: 30px; .2; ease; 0.2; 
+  transition: font-size; .2; ease; 0.2; 
   }
+  
+H4: hover {
+  font-size: 30px;
+} 
 main{ 
   padding-right: 150px;
   padding-left: 150px;
