@@ -39,7 +39,7 @@ P{
   COLOR: BLACK; 
   TEXT-ALIGN: LEFT; 
   font-family: GEORGIA; Times; serif
-  font-size: 40PX; 
+  font-size: 50PX; 
   font-variant: small-caps; 
   line-height: 25%;
 }
@@ -53,8 +53,8 @@ P1{
 
 H4 {
   Color: BLACK; 
-  text-align:LEFT; 
-  FONT-FAMILY: GEORGIA; Times; serif
+  text-align: LEFT; 
+  FONT-FAMILY: GEORGIA
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
