@@ -45,9 +45,11 @@ img {
 }
 LI {
   COLOR: white;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;;
 }
 .hideme {
   COLOR: white;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 main {
   -webkit-columns: 2 150px;
