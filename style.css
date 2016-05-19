@@ -43,6 +43,12 @@ img {
     border: 1px solid black;
     float: right;
 }
+LI {
+  COLOR: white;
+}
+.hideme {
+  COLOR: white;
+}
 main {
   -webkit-columns: 2 150px;
   -moz-columns: 2 150px;
