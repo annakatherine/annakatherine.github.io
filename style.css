@@ -11,7 +11,7 @@ FONT-SIZE: 40PX;
 TEXT-ALIGN: LEFT; 
 font-family: GEORGIA; Times; serif
 font-variant: SMALL-CAPS; 
-line-height: 10%;
+
 padding-bottom: 10px;
 }
 
@@ -24,6 +24,7 @@ img {
 .nav {
     width: 40%;
     float: left;
+    line-height: ;
 }
 .section {
    float: left;   
@@ -35,7 +36,7 @@ H2 {
   FONT-SIZE: 20px;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
-  line-height: .6;
+
 }
 
 
@@ -45,7 +46,7 @@ P{
   font-family: GEORGIA;
   font-size: 30PX; 
   font-variant: small-caps; 
-  line-height: 20%;
+  
   font-weight: bold;
 }
 
@@ -54,14 +55,14 @@ P1{
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
   font-size: 20PX;
-  line-height: 20px;
+ 
 }
 
 H4 {
   Color: white; 
   text-align: LEFT; 
   FONT-FAMILY: GEORGIA
-  line-height: 10%; 
+  
   font-size: 20PX;
   font-variant: small-caps;
 }
@@ -72,10 +73,10 @@ body {
  
 P4{
   COLOR: white; 
-  line-height: 36%;
+  
 } 
 
 LI {
   COLOR: white;
-  line-height: 60%;
+ 
 }
