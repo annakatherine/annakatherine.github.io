@@ -4,15 +4,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $('body').wrapInner('<div class="new" />');
-    $('.new:not(.butones)').hide();
-});
-    $("#show").click(function(){
-        $(".new").show();
-    });
-    $("#hide").click(function(){
-        $(".new").hide();
-    });
+    $(".hideme").hide();
+    $(".hideme").click(function(){
+       $(".hideme").hide(); 
+    })
+    $(".hideme").click(function(){
+        $(".hideme").show();
+    })
 });
 </script>
 
@@ -30,13 +28,11 @@ Anna Katherine Rodenborg Baker, MA
 <H2>annakatherinebaker@gmail.com</H2>
 <H2>763.302.9886</H2>
 </header>
-<P> 
-  Career Profile: 
-  </P>
+<div class = "hideme">
+<P> Career Profile: </P>
 <P1> Mover and shaker, world traveler, all around badass. </P1>
 <main>
-        
-<P>Experience</P>
+<P> Experience </P>
 <h4>Bilingual CA/MNsure Navigator, Planned Parenthood 2014-2016</h4>
   <UL>
     <LI>Coordinated MNsure enrollment at Minneapolis clinic</LI>
@@ -119,10 +115,11 @@ Anna Katherine Rodenborg Baker, MA
 </UL>
 </main>
 </section>
-< div class = "butones">
-        <button id="hide">Hide</button>
-    <button id="show">Show</button>
 </div>
+
+    <button id=".hideme">Hide</button>
+    <button id=".hideme">Show</button>
+
 
 </BODY>
 </HTML>
