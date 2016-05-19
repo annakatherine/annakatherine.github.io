@@ -29,6 +29,14 @@ img {
   float: right;
   width: 50%;
 }
+#innercontent {
+  padding-left: 10px ;
+  padding-right: 10px ;
+}
+#innernavbar {
+  padding-left: 5px ;
+  padding-right: 5px ;
+}
 H2 { 
   COLOR: white;
   FONT-SIZE: 20px;
