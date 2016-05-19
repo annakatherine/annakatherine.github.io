@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("section").hide();
+        $("body:not(.boo)").hide();
     });
     $("#show").click(function(){
         $("section").show();
