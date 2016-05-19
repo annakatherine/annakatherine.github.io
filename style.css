@@ -21,13 +21,18 @@ img {
     border: 1px solid black;
     float: right;
 }
-#content {
-  float: right ;
-  width: 50% ;
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
-#navbar {
-  float: right;
-  width: 50%;
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
 }
 #innercontent {
   padding-left: 10px ;
