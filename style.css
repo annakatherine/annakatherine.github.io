@@ -22,13 +22,12 @@ img {
     float: right;
 }
 .nav {
-    width: 50%;
+    width: 40%;
     float: left;
 }
 .section {
    float: left;   
-   width: 50%;
-   
+   width: 40%;
 }
 
 H2 { 
