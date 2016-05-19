@@ -20,12 +20,12 @@ img {
     border: 1px solid black;
     float: right;
 }
-.nav {
+nav {
     width: 35%;
     float: left;
     line-height: ;
 }
-.section {
+section {
    float: left;   
    width: 35%;
 }
