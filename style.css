@@ -20,14 +20,7 @@ img {
     border: 1px solid black;
     float: right;
 }
-nav {
-    width: 20%;
-    float: left;
-}
-section {
-   float: right;   
-   width: 20%;
-}
+
 
 H2 { 
   COLOR: white;
