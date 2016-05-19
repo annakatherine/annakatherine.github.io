@@ -13,9 +13,7 @@ font-family: GEORGIA; Times; serif
 font-variant: SMALL-CAPS; 
 padding-bottom: 10px;
 }
-BODY{
-  background-color: dark blue;
-}
+
 P{
   COLOR: white;
   FONT-SIZE:;
@@ -48,5 +46,6 @@ main {
   -webkit-column-gap: 3em;
   -moz-column-gap: 3em;
   column-gap: 3em;
+  background-color: dark blue;
 }
 
