@@ -1,12 +1,12 @@
 header{
-  margin: 50px 0px 0px 0px;
+  margin: 50px 10px 0px 10px;
   padding: 30px;
   background-color: #919299;
   border: 1px #293F4A solid;
 }
 
 H1{
-COLOR: black; 
+COLOR: white; 
 FONT-SIZE: 40PX;
 TEXT-ALIGN: LEFT; 
 font-family: GEORGIA; Times; serif
@@ -23,7 +23,7 @@ img {
 }
 
 H2 { 
-  COLOR: BLACK;
+  COLOR: white;
   FONT-SIZE: 20px;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
@@ -35,7 +35,7 @@ section{
 }
 
 P{
-  COLOR: BLACK; 
+  COLOR: white; 
   TEXT-ALIGN: LEFT; 
   font-family: GEORGIA;
   font-size: 30PX; 
@@ -45,7 +45,7 @@ P{
 }
 
 P1{
-  COLOR: BLACK;
+  COLOR: white;
   TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
   font-size: 20PX;
@@ -53,7 +53,7 @@ P1{
 }
 
 H4 {
-  Color: BLACK; 
+  Color: white; 
   text-align: LEFT; 
   FONT-FAMILY: GEORGIA
   line-height: 10%; 
@@ -81,11 +81,11 @@ main {
 
 nav {
   margins: 40px 0px 0px 0px;
-  COLOR: BLACK; 
+  COLOR: white; 
   line-height: 60%;
 
 P4{
-  COLOR: BLACK; 
+  COLOR: white; 
   line-height: 36%;
 } 
 
