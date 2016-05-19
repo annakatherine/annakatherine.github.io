@@ -18,7 +18,7 @@ BODY{
   background-color: white;
 }
 
-P{
+P {
   COLOR: black;
   FONT-SIZE: 60PX;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
@@ -33,21 +33,18 @@ H3{
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
-H4{
+H4 {
   COLOR: black;
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   list-style-type: none;
 }
-
 UL {
   list-style-type: none;
-
 }
 img {
     margin-bottom: 100px;
     border: 1px solid black;
-    
 }
 LI {
   COLOR: black;
