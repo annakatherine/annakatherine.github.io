@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("BODY").hide();
+        $("BODY"not(.show)).hide();
     });
     $("#show").click(function(){
         $("BODY").show();
@@ -20,7 +20,7 @@ Anna Baker
 <header>
 
 <button id="hide">Hide</button>
-<button id="show">Show</button>
+
 <H1> 
 Anna Katherine Rodenborg Baker, MA  
 </H1>
@@ -119,8 +119,9 @@ Anna Katherine Rodenborg Baker, MA
   <LI>Vice President (2014-present)</LI>
   <LI>Editor of quarterly newsletter, <a href = "http://www.mnrpcv.org/newsletters/newsletters/"> MNRPCV News</a></LI>
 </UL>
-
-
+<div class="show"
+<button id="show">Show</button>
+</div>
 </main>
 </section>
  
