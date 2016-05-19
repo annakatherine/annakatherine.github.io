@@ -23,7 +23,6 @@ img {
 nav {
     width: 35%;
     float: left;
-    line-height: ;
 }
 section {
    float: left;   
@@ -33,35 +32,25 @@ section {
 H2 { 
   COLOR: white;
   FONT-SIZE: 20px;
-  TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
-
 }
-
-
 P{
   COLOR: white; 
-  TEXT-ALIGN: LEFT; 
   font-family: GEORGIA;
   font-size: 30PX; 
   font-variant: small-caps; 
-  
   font-weight: bold;
 }
 
 P1{
   COLOR: white;
-  TEXT-ALIGN: LEFT;
   font-family: GEORGIA; Times; serif
   font-size: 20PX;
- 
 }
 
 H4 {
   Color: white; 
-  text-align: LEFT; 
   FONT-FAMILY: GEORGIA
-  
   font-size: 20PX;
   font-variant: small-caps;
 }
