@@ -14,6 +14,10 @@ font-variant: SMALL-CAPS;
 padding-bottom: 10px;
 }
 
+BODY{
+  background-color: #242F75;
+}
+
 P{
   COLOR: white;
   FONT-SIZE:;
