@@ -23,8 +23,8 @@ main {
   -webkit-columns: 2 150px;
   -moz-columns: 2 150px;
   columns: 2 150px;
-  -webkit-column-gap: 2em;
-  -moz-column-gap: 2em;
-  column-gap: 2em;
+  -webkit-column-gap: 3em;
+  -moz-column-gap: 3em;
+  column-gap: 3em;
 }
 
