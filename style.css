@@ -1,10 +1,11 @@
 header {
   margin: 0 0 0 0;
   background-color:	#738085;
-  border: 1px #293F4A solid;
+  border: 3px black solid;
 }
 img {
   border-radius: 50%;
+  border: 3px black solid;
 }
 H1{
 COLOR: black; 
@@ -23,6 +24,7 @@ P {
   COLOR: black;
   FONT-SIZE: 30PX;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  padding-bottom: 10px;
 }
 H2{
   COLOR: black;
