@@ -50,6 +50,7 @@ LI {
 .hideme {
   COLOR: black;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  text-align: center;
 }
 main {
   background-color: white;
