@@ -44,7 +44,7 @@ img {
     float: right;
 }
 LI {
-  COLOR: white;
+  COLOR: black;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;;
 }
 .hideme {
@@ -53,6 +53,6 @@ LI {
 }
 main {
  
-  background-color: #242F75;
+  background-color: white;
 }
 
