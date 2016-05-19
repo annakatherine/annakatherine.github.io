@@ -22,13 +22,12 @@ img {
     float: right;
 }
 .nav {
-    width: 30%;
-    
+    width: 50%;
     float: left;
 }
 .section {
- float: left;   
- width: 30%;
+   float: left;   
+   width: 50%;
    
 }
 
