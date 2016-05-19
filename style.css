@@ -15,20 +15,19 @@ font-variant: SMALL-CAPS;
 padding-bottom: 10px;
 }
 
-
 img {
     margin-bottom: 100px;
     border: 1px solid black;
     float: right;
 }
 .nav {
-    width: 40%;
+    width: 35%;
     float: left;
     line-height: ;
 }
 .section {
    float: left;   
-   width: 40%;
+   width: 35%;
 }
 
 H2 { 
