@@ -37,6 +37,12 @@ H4{
   COLOR: black;
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  list-style-type: none;
+}
+
+UL {
+  list-style-type: none;
+
 }
 img {
     margin-bottom: 100px;
