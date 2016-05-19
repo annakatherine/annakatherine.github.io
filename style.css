@@ -31,15 +31,12 @@ H2 {
 }
 #content {
   float: right ;
-  width: 80% ;
+  width: 40% ;
 }
 
 #navbar {
   float: right;
-  width: 20%;
-}
-section{
-
+  width: 40%;
 }
 
 P{
