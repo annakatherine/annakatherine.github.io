@@ -9,7 +9,7 @@ H1{
 COLOR: white; 
 FONT-SIZE: 40PX;
 TEXT-ALIGN: LEFT; 
-font-family: GEORGIA; Times; serif
+font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 font-variant: SMALL-CAPS; 
 padding-bottom: 10px;
 }
@@ -21,22 +21,22 @@ BODY{
 P{
   COLOR: white;
   FONT-SIZE:;
-  font-family: GEORGIA; Times; serif;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H2{
   COLOR: white;
   FONT-SIZE:;
-  font-family: GEORGIA; Times; serif;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H3{
   COLOR: white;
   FONT-SIZE:;
-  font-family: GEORGIA; Times; serif;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H4{
   COLOR: white;
   FONT-SIZE:;
-  font-family: GEORGIA; Times; serif;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 img {
     margin-bottom: 100px;
@@ -55,9 +55,9 @@ main {
   -webkit-columns: 2 150px;
   -moz-columns: 2 150px;
   columns: 2 150px;
-  -webkit-column-gap: 3em;
-  -moz-column-gap: 3em;
-  column-gap: 3em;
+  -webkit-column-gap: 4em;
+  -moz-column-gap: 4em;
+  column-gap: 4em;
   background-color: #242F75;
 }
 
