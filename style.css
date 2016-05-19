@@ -3,7 +3,9 @@ header {
   background-color:	#C0C0C0;
   border: 1px #293F4A solid;
 }
-
+img {
+  border-radius: 50%;
+}
 H1{
 COLOR: black; 
 FONT-SIZE: 40PX;
@@ -41,10 +43,7 @@ H4 {
 UL {
   list-style-type: none;
 }
-img {
-    margin-bottom: 100px;
-    border: 1px solid black;
-}
+
 LI {
   COLOR: black;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;;
