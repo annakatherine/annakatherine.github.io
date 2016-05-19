@@ -52,12 +52,7 @@ LI {
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 main {
-  -webkit-columns: 2 175px;
-  -moz-columns: 2 175px;
-  columns: 2 150px;
-  -webkit-column-gap: 4em;
-  -moz-column-gap: 4em;
-  column-gap: 4em;
+ 
   background-color: #242F75;
 }
 
