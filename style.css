@@ -33,8 +33,9 @@ H2 {
   float: right ;
   width: 80% ;
 }
+
 #navbar {
-  float: right;
+  float: left;
   width: 20%;
 }
 section{
