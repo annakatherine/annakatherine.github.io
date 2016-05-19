@@ -5,15 +5,15 @@ header {
 }
 img {
   border-radius: 50%;
-  border: 10px black solid;
+  border: 3px black solid;
+  padding-top: 10%;
 }
 H1{
 COLOR: black; 
 FONT-SIZE: 40PX;
 TEXT-ALIGN: CENTER; 
 font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
-font-variant: SMALL-CAPS; 
-
+font-variant: SMALL-CAPS;
 }
 
 BODY{
