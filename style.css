@@ -6,7 +6,7 @@ header {
 img {
   border-radius: 50%;
   border: 3px black solid;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 H1{
 COLOR: black; 
@@ -21,23 +21,23 @@ BODY{
 }
 
 P {
-  COLOR: black;
+  COLOR: white;
   FONT-SIZE: 30PX;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   padding-bottom: 10px;
 }
 H2{
-  COLOR: black;
+  COLOR: white;
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H3{
-  COLOR: black;
+  COLOR: white;
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H4 {
-  COLOR: black;
+  COLOR: white;
   FONT-SIZE:;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   list-style-type: none;
@@ -47,11 +47,11 @@ UL {
 }
 
 LI {
-  COLOR: black;
+  COLOR: white;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;;
 }
 .hideme {
-  COLOR: black;
+  COLOR: white;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   text-align: center;
 }
