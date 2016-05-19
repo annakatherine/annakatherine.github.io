@@ -20,9 +20,9 @@ img {
     float: right;
 }
 main {
-  -webkit-columns: 2 200px;
-  -moz-columns: 2 200px;
-  columns: 2 200px;
+  -webkit-columns: 2 150px;
+  -moz-columns: 2 150px;
+  columns: 2 150px;
   -webkit-column-gap: 2em;
   -moz-column-gap: 2em;
   column-gap: 2em;
