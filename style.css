@@ -21,7 +21,14 @@ img {
     border: 1px solid black;
     float: right;
 }
-
+#content {
+  float: right ;
+  width: 50% ;
+}
+#navbar {
+  float: right;
+  width: 50%;
+}
 H2 { 
   COLOR: white;
   FONT-SIZE: 20px;
