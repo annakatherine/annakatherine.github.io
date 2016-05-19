@@ -22,10 +22,12 @@ img {
     float: right;
 }
 #nav {
-    
+    width: 40%;
+    line-height: 50%;
 }
 #section {
-    
+    width: 40%;
+    line-height: 50%;
 }
 
 H2 { 
