@@ -13,7 +13,26 @@ font-family: GEORGIA; Times; serif
 font-variant: SMALL-CAPS; 
 padding-bottom: 10px;
 }
-
+P{
+  COLOR: white;
+  FONT-SIZE:;
+  font-family: GEORGIA; Times; serif;
+}
+H2{
+  COLOR: white;
+  FONT-SIZE:;
+  font-family: GEORGIA; Times; serif;
+}
+H3{
+  COLOR: white;
+  FONT-SIZE:;
+  font-family: GEORGIA; Times; serif;
+}
+H4{
+  COLOR: white;
+  FONT-SIZE:;
+  font-family: GEORGIA; Times; serif;
+}
 img {
     margin-bottom: 100px;
     border: 1px solid black;
