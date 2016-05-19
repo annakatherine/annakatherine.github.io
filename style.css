@@ -1,6 +1,6 @@
 header {
   margin: 0 0 0 0;
-  background-image: url("http://static4.grsites.com/archive/textures/blue/blue075.jpg");
+  background-color:	#C0C0C0;
   border: 1px #293F4A solid;
 }
 
@@ -55,7 +55,7 @@ LI {
   text-align: center;
 }
 main {
-  background-color: white;
+  background-image: url("http://static4.grsites.com/archive/textures/blue/blue075.jpg");
 }
 
 .grow { transition: all .2s ease-in-out; }
