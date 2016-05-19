@@ -5,7 +5,7 @@
 <script>
 $(document).ready(function(){
     $("#hide").click(function(){
-        $("main").hide();
+        $("body:not(div.boo)").hide();
     });
     $("#show").click(function(){
         $("body").show();
@@ -19,7 +19,7 @@ Anna Baker
 <BODY>
 <header>
 <button id="hide">Hide</button>
-<button id="show">Show</button>
+
 <section>
 <H1> 
 Anna Katherine Rodenborg Baker, MA  
@@ -116,7 +116,9 @@ Anna Katherine Rodenborg Baker, MA
 </UL>
 </div>
 
-
+<div class="boo">
+    <button id="show">Show</button>
+</div>
 
 </main>
 </section>
