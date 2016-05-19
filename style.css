@@ -67,29 +67,17 @@ H4 {
   line-height: 10%; 
   font-size: 20PX;
   font-variant: small-caps;
-  transition: font-size; 2s; ease; 2s;
-  
 }
-H4: hover {
-  font-size: 30px;
-}
-  
 
 body {
   background-color: #242F75;
 }
  
-  
-
-
 P4{
   COLOR: white; 
   line-height: 36%;
 } 
 
-label, input { 
-  display: block;
-}
 LI {
   COLOR: white;
 }
