@@ -1,6 +1,5 @@
 header{
   margin: 0px 0px 0px 0px;
-  padding: 30px;
   background-color: #919299;
   border: 1px #293F4A solid;
 }
@@ -20,7 +19,7 @@ BODY{
 
 P {
   COLOR: black;
-  FONT-SIZE: 60PX;
+  FONT-SIZE: 30PX;
   font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 H2{
